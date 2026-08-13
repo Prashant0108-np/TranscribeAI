@@ -143,8 +143,6 @@ DEEPGRAM_API_KEY=your_deepgram_api_key
 LLM_API_KEY=your_llm_api_key
 ```
 
-**Do not commit the `.env` file to GitHub.**
-
 ### 5. Start the backend
 
 ```bash
